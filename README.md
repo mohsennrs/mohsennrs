@@ -14,7 +14,7 @@ I'm Mohsen, a full-stack engineer based in Dublin with 8+ years of experience bu
 
 ### 🛠 Tech I work with
 
-**Back-end:** PHP/Laravel · Node.js · NestJS · Express.js · Python/FastAPI  
+**Back-end:** PHP/Laravel · Node.js · NestJS · Express.js, Python/FastAPI, ASP.net
 **Front-end:** React · Vue.js · Nuxt.js · Next.js · TypeScript · TailwindCSS  
 **Databases:** PostgreSQL · MySQL · MongoDB · Redis  
 **Infrastructure:** AWS · GitHub Actions · Azure DevOps · Docker · Linux  
