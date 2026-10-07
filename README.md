@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Mohsen, a full-stack engineer based in Dublin with 8+ years of experience building web applications across the full stack.
+I'm Mohsen, a full-stack engineer based in Dublin with 9+ years of experience building web applications across the full stack.
 
 -  I'm currently working on **Livefarm** — a SaaS platform connecting farmers, agri-advisors, contractors, and laboratories across the agriculture ecosystem
 -  I'm currently learning more about **AI agents, LLMs, and agentic application architecture**
